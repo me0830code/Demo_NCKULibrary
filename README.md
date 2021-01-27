@@ -17,7 +17,7 @@ Side Project - National Cheng Kung University Library
 11. Localization
 
 # App Store
-[NCKU Library - Reviewing](https://apps.apple.com/tw/)
+[NCKU Library](https://apps.apple.com/tw/app/%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%E5%9C%96%E6%9B%B8%E9%A4%A8/id1080535737)
 
 # Demo
 Home
